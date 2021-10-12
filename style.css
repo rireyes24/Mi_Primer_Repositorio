@@ -1,0 +1,17 @@
+h2, p, a, figcaption
+{
+    font-family: consolas;
+}
+h2
+{
+    color: blue;         
+}
+a
+{            
+    text-align: auto;
+    margin-left: 400px;
+}  
+.the3Spideys
+{
+    height: 250px;    
+}
